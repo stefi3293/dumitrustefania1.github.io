@@ -20,7 +20,6 @@ $$
  - 
  # Scrierea sistemelor de ecuatii 
 
-''' LaTex
 
 $$ 
 \begin{align}
