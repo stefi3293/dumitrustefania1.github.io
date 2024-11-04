@@ -11,8 +11,17 @@ a_{21} & a_{22} & a_{23} \\
 \end{vmatrix} 
 $$
  **Posibilitati:**
+ 
  - '{pmatrix}'
  - '{bmatrix}'
  - '{Bmatrix}'
  - '{vmatrix}'
  - '{Vmatrix}'
+ - 
+ # Scrierea sistemelor de ecuatii 
+
+$$ \begin{align}
+f(x) &= ax^2
+g(x) &= ax^2+bx+c
+$$\end{align}
+ 
