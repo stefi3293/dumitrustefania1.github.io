@@ -3,8 +3,9 @@
 # Scrierea matricelor
 
 $$
-\begin{pmatrix}
+A=
+\begin{vmatrix}
 a_{11} & a_{12} & a_{13} \\
 a_{21} & a_{22} & a_{23} \\
-\end{pmatrix} 
+\end{vmatrix} 
 $$
